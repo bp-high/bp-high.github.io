@@ -3,7 +3,7 @@ title: "Paper 1"
 collection: publications
 permalink: /publication/paper-1
 excerpt: 'BpHigh@TamilNLP-ACL2022: Effects of Data Augmentation on Indic-Transformer based classifier for Abusive Comments Detection in Tamil'
-date: 2022
+date: 2022-05-22
 venue: 'Second Workshop on Speech and Language Technologies for Dravidian Languages co-located with ACL 2022'
 paperurl: 'https://aclanthology.org/volumes/2022.dravidianlangtech-1/'
 citation: '@inproceedings{pahwa-2022-bphigh,
