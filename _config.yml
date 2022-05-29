@@ -13,7 +13,7 @@ name                     : &name "Bhavish Pahwa"
 description              : &description "Final Year Undergrad@BITS-Hyderabad"
 url                      : bp-high.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Private"
+repository               : "bp-high/bp-high.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Bhavish Pahwa"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Dynamic and focused, final year undergrad with experience of more than a year in the professional tech industry. Early Career researcher working in Computational Social Science, with a particular focus on hate speech and abusive language detection on social media platforms, eager to contribute to developing an inclusive, safe social space for all communities. Beginner in open source contributions, deeply motivated by the ideology to democratize AI research."
+  location         : "India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : ""
+  googlescholar    : "https://scholar.google.com/citations?user=rF9f7psAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
