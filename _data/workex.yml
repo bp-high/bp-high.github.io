@@ -1,4 +1,11 @@
 experiences:
+  - name: "MindTickle!"
+    img-path: "mindtickle.png"
+    designation: "Software Development Engineer - 1"
+    url: "https://www.mindtickle.com/"
+    date: "July 2022 - , Remote/Pune, India"
+    desc: "Working in the Call AI team in MindTickle"
+
   - name: "Amazon"
     img-path: "amazon.png"
     designation: "Software Development Intern"
@@ -12,4 +19,5 @@ experiences:
     url: "https://www.dbs.com/in/index/default.page"
     date: "May 2021 - Aug 2021, Remote/India"
     desc: "Worked closely with the Data science and NLP team at the Credit & Operational Risk Department at DAH2 centre of DBS Bank , Singapore."
+  
   
