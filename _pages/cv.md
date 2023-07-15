@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae](/files/){:target="_blank"}
+[Curriculum Vitae](https://drive.google.com/file/d/1cGEE0Dv_V5ugwqVtK2RGytG76cB59XYL/view)
