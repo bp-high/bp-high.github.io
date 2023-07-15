@@ -19,7 +19,7 @@ He is an active open source contributor and deeply motivated by the ideology to 
 
 <div style="overflow-y:scroll; height:12em;">
 <ul>
-<li class="a"><strong>July, 2023</strong>:Attended <a href="https://2023.aclweb.org/" target="_blank">ACL 2023</a> and had a poster presentations at co-located workshops <a href="https://semeval.github.io/SemEval2023/" target="_blank">SEMEVAL-2023</a>  and <a href="https://wassa-workshop.github.io/" target="_blank">WASSA-2023</a> </li>
+<li class="a"><strong>July, 2023</strong>:Attended <a href="https://2023.aclweb.org/" target="_blank">ACL 2023</a> and had poster presentations at co-located workshops <a href="https://semeval.github.io/SemEval2023/" target="_blank">SEMEVAL-2023</a>  and <a href="https://wassa-workshop.github.io/" target="_blank">WASSA-2023</a>. Also thankful to the ACL D&I Committee for providing me the virtual registration and ACL membership fees waiver</li>
 <li class="a"><strong>MAY, 2022</strong>:Attended <a href="https://www.2022.aclweb.org/" target="_blank">ACL 2022</a> as a student volunteer as well as had a poster presentation at co-located workshop <a href="https://dravidianlangtech.github.io/2022/" target="_blank">DravidianLangTech-2022</a> </li>
 </ul>
 </div>
